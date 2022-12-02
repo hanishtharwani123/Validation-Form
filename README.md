@@ -1,0 +1,1 @@
+hello everyone, I am back with a project named Validation Form. I have created this project with the help of HTML, CSS and Javascript. I have created this sign in page using JavaScript concepts like event listeners and loops. I hope you like it ❤️.
